@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 fghchv
 gbvvv
 nvbb v 
+=======
+hbvv,n,mn
+>>>>>>> feature-1
