@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 fghchv
 gbvvv
 nvbb v 
 =======
 hbvv,n,mn
+>>>>>>> feature-1
+=======
+hbvv,n,m
+ff merge
 >>>>>>> feature-1
