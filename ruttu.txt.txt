@@ -1,4 +1,3 @@
-name emaiid
-ruttu sandsd@g,ail.com
-ruthika mumfs@gmail.com
-abcd munna@gmail.com
+1 name mail
+2 ace sand@gmail.com
+aecv sungam@gmail.com
