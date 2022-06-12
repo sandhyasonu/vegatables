@@ -1,2 +1,5 @@
 mtech
 btech
+bsc
+degree
+mpc
